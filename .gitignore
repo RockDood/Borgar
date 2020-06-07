@@ -70,3 +70,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Library/CurrentLayout-default.dwlt
+
+Library/ArtifactDB
+
+Library/shadercompiler-UnityShaderCompiler.exe0.log
+
+Library/SourceAssetDB
+
+Library/SourceAssetDB-lock

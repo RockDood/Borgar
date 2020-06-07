@@ -843,16 +843,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 123163620974930568, guid: d826a9dfe2f96814bb6a32c38e717532,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4974390797472245220, guid: d826a9dfe2f96814bb6a32c38e717532,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5540570286933297056, guid: d826a9dfe2f96814bb6a32c38e717532,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -908,20 +898,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6840595183326310281, guid: d826a9dfe2f96814bb6a32c38e717532,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8641623753162267268, guid: d826a9dfe2f96814bb6a32c38e717532,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8844883347947173299, guid: d826a9dfe2f96814bb6a32c38e717532,
         type: 3}
       propertyPath: m_Name
-      value: Mouse
+      value: MousePlayer
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d826a9dfe2f96814bb6a32c38e717532, type: 3}

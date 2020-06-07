@@ -135,7 +135,7 @@ MonoBehaviour:
   speed: 24
   gravity: -39.24
   jumpHei: 3
-  mSens: 100
+  mSens: 300
   pBody: {fileID: 3305835044267476457}
   Camera: {fileID: 6193706101127066677}
   PlayerCamera: {fileID: 4410746000325031730}
@@ -184,7 +184,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4410746000325031730}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.68, z: 0.97}
+  m_LocalPosition: {x: 0, y: 0.49, z: 0.76}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3305835044267476457}

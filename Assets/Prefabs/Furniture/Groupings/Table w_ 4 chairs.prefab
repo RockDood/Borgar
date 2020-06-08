@@ -3340,7 +3340,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4614451134388142}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Table w_ 4 chairs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
